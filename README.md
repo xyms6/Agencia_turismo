@@ -13,4 +13,3 @@ Este é um site simples e estilizado para apresentar os serviços de uma agênci
 1. Clone ou baixe o repositório.
 2. Abra o arquivo `index.html` em qualquer navegador.
 
-git
